@@ -13,7 +13,7 @@
 - 📝 I regularly write articles on [Duck Radio](https://duckradio.vercel.app/)
 - 💬 Ask me about **how do I started developing.**
 - 📫 How to reach me **n1cklim@myvirtualpet.es**
-- ⚡ Fun fact **I like chocolate :D**
+- ⚡ Fun fact **i play the piano.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
